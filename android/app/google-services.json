@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769497031078",
+    "firebase_url": "https://blast-chat.firebaseio.com",
+    "project_id": "blast-chat",
+    "storage_bucket": "blast-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769497031078:android:d23f9af65ee518b81e6f67",
+        "android_client_info": {
+          "package_name": "co.philona.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769497031078-630ra6i44vrc0t16o2e5c32r1f6vc459.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWAU0mhSg5zcKU66kY9mBvmBPZR1ACa80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769497031078-630ra6i44vrc0t16o2e5c32r1f6vc459.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
